@@ -1,5 +1,7 @@
 #Ravelin Design Exercise
 
+![](https://raw.githubusercontent.com/unravelin/design-exercise/master/top_nav.jpg?token=ACOg56ulcJ6ZXLse1zlFDGc2dZpFmaA7ks5X_UB-wA%3D%3D)
+
 ##Summary
 
 As you might already know, Ravelin helps our clients detect fraud through machine learning. The Ravelin dashboard is a client-facing web application, the purpose of which is to provide our clients insight into their customers, specifically ones tied to fraud.
