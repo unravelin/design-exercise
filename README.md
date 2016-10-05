@@ -14,14 +14,15 @@ We need you to design a notification component that appears when you click the b
 
 This notification component must hold a series of notifications. The sole purpose of these notifications are to make the user aware of important events.
 
-The four different types of events are as follows:
+The five different types of events are:
 
 - A fraud ring has appeared
 - You have been assigned a customer by another user
 - A customer you were watching has just made a suspicious order
 - A new queue has been assigned to you by another user
+- A reminder that you need to upload your company's chargebacks
 
-While we use [Sketch](https://www.sketchapp.com/) as our preferred design tool at Ravelin, this design exercise can be done using any tool of your choosing. 
+While we use [Sketch](https://www.sketchapp.com/) as our preferred design tool at Ravelin, this exercise can be done using any tool of your choosing. 
 
 We've included a starter template file in both .sketch and .psd formats to help you get started. The font used throughout the dashboard (Source Sans Pro) is also bundled.
 
