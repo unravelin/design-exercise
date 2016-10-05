@@ -4,24 +4,24 @@
 
 ##Summary
 
-As you might already know, Ravelin helps our clients detect fraud through machine learning. The Ravelin dashboard is a client-facing web application, the purpose of which is to provide our clients insight into their customers, specifically ones tied to fraud.
+As you might already know we detect fraud here at Ravelin and we're pretty good at it. The Ravelin dashboard is a client-facing web application that sits on top of our machine learning models. The purpose of this dashboard is to provide our clients insights into their customers, specifically ones tied to fraud – you know, the bad guys.
 
 Your task is to design a notification system for the Ravelin dashboard.
 
 ##Spec
 
-We need a notification system that appears when you click the bell in the upper-right corner. Whether this takes the form of a pop-out modal, sidebar or other element is up to you.
+We need you to design a notification component that appears when you click the bell in the upper-right corner. Whether this takes the form of a dropdown modal, sidebar or some other UI element is completely up to you.
 
-Notifications might come in the form of alerts that make the user aware of important events.
+This notification component must hold a series of notifications. The sole purpose of these notifications are to make the user aware of important events.
 
 The four different types of events are as follows:
 
 - A fraud ring has appeared
-- Your account has been assigned a customer by another user account
+- You have been assigned a customer by another user
 - A customer you were watching has just made a suspicious order
 - A new queue has been assigned to you by another user
 
-While we use [Sketch](https://www.sketchapp.com/) as our preferred design tool at Ravelin, the design can be done using any tool of your choosing. 
+While we use [Sketch](https://www.sketchapp.com/) as our preferred design tool at Ravelin, this design exercise can be done using any tool of your choosing. 
 
 We've included a starter template file in both .sketch and .psd formats to help you get started. The font used throughout the dashboard (Source Sans Pro) is also bundled.
 
