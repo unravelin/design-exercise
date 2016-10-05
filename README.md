@@ -10,7 +10,7 @@ Your task is to design a notification system for the Ravelin dashboard.
 
 ##Spec
 
-We need you to design a notification component that appears when you click the bell in the upper-right corner. Whether this takes the form of a dropdown modal, sidebar or some other UI element is completely up to you.
+We need you to design a notification component that appears when you click the bell icon in the upper right-hand corner. Whether this takes the form of a dropdown modal, sidebar or some other UI element is completely up to you.
 
 This notification component must hold a series of notifications. The sole purpose of these notifications are to make the user aware of important events.
 
