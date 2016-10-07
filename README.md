@@ -12,7 +12,7 @@ Your task is to design a notification system for the Ravelin dashboard.
 
 We need you to design a notification component that appears when you click the bell icon in the upper right-hand corner. Whether this takes the form of a dropdown modal, sidebar or some other UI element is completely up to you.
 
-This notification component must hold a series of notifications. The sole purpose of these notifications are to make the user aware of important events.
+This notification component must hold a series of notifications. The sole purpose of these notifications are to make the user aware of important events. Feel free to go beyond the brief. You will not be penalised for making incorrect assumptions about how a user might interact or take action on these events.
 
 The five different types of events are:
 
