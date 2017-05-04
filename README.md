@@ -1,14 +1,14 @@
-#Ravelin Design Exercise
+# Ravelin Design Exercise
 
 ![](https://raw.githubusercontent.com/unravelin/design-exercise/master/top_nav.jpg?token=ACOg56ulcJ6ZXLse1zlFDGc2dZpFmaA7ks5X_UB-wA%3D%3D)
 
-##Summary
+## Summary
 
 As you might already know we detect fraud here at Ravelin and we're pretty good at it. The Ravelin dashboard is a client-facing web application that sits on top of our machine learning models. The purpose of this dashboard is to provide our clients insights into their customers, specifically ones tied to fraud – you know, the bad guys.
 
 Your task is to design a notification system for the Ravelin dashboard.
 
-##Spec
+## Spec
 
 We need you to design a notification component that appears when you click the bell icon in the upper right-hand corner. Whether this takes the form of a dropdown modal, sidebar or some other UI element is completely up to you.
 
