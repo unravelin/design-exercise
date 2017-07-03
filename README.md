@@ -1,6 +1,6 @@
 # Ravelin Design Exercise
 
-![](https://raw.githubusercontent.com/unravelin/design-exercise/master/top_nav.jpg?token=ACOg56ulcJ6ZXLse1zlFDGc2dZpFmaA7ks5X_UB-wA%3D%3D)
+![](https://raw.githubusercontent.com/unravelin/design-exercise/master/top_nav.jpg)
 
 ## Summary
 
