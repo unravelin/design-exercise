@@ -24,7 +24,7 @@ The five different types of events are:
 
 While we use [Sketch](https://www.sketchapp.com/) as our preferred design tool at Ravelin, this exercise can be done using any tool of your choosing. 
 
-We've included a starter template file in both .sketch and .psd formats to help you get started. The font used throughout the dashboard (San Francisco Pro) is also bundled.
+We've included a starter template file in .sketch and .fig formats to help you get started. The font used throughout the dashboard (San Francisco Pro) is also bundled.
 
 Please try and organise your layers and elements in some sort of logical hierarchy. If you're using Sketch make use Symbols and Resizing Constraints.
 
