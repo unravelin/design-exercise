@@ -30,4 +30,4 @@ Please try and organise your layers and elements in some sort of logical hierarc
 
 ___
 
-**Note:** We're only looking for a final design file (native files please, no JPEGs or PNGs). Bonus points if wireframes or prototypes are included in your deliverables.
+**Note:** The key thing we're looking for is a final design file (native files please, no JPEGs or PNGs). Bonus points if wireframes or prototypes are included in your deliverables.
