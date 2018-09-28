@@ -4,7 +4,7 @@
 
 ## Summary
 
-As you might already know we detect fraud here at Ravelin, and we're pretty good at it. The Ravelin Dashboard is a client-facing web application that sits on top of our machine learning models. The purpose of this dashboard is to provide our clients insights into their customers, specifically ones tied to fraud – you know, the bad guys.
+As you might already know we detect fraud here at Ravelin, and we're pretty good at it. The Ravelin Dashboard is a web application that provides our clients insights into their customers, specifically ones tied to fraud – you know, the bad guys.
 
 Your task is to design a notification system for the Ravelin Dashboard.
 
