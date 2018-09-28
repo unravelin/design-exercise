@@ -12,7 +12,7 @@ Your task is to design a notification system for the Ravelin Dashboard.
 
 Design a notification component that appears when you click the bell icon in the upper right-hand corner. Whether this takes the form of a dropdown modal, tray, sidebar or some other UI element is completely up to you.
 
-This notification component must hold a series of notifications. The purpose of these notifications are to make the user aware of important events. Feel free to go beyond the brief. You will not be penalised for making incorrect assumptions about how a user might interact or take action on these events.
+This notification component must hold a series of notifications. The purpose of these notifications is to make the user aware of important events. Feel free to go beyond the brief. You will not be penalised for making incorrect assumptions about how a user might interact or take action on these events.
 
 The five different types of events are:
 
@@ -26,7 +26,7 @@ While we use [Sketch](https://www.sketchapp.com/) as our preferred design tool a
 
 We've included a starter template file in .sketch and .fig formats to help you get started. The font used throughout the dashboard (San Francisco Pro) is also bundled.
 
-Please try and organise your layers and elements in some sort of logical hierarchy. If you're using Sketch make use Symbols and Resizing Constraints.
+Please try and organise your layers and elements in some sort of logical hierarchy. If you're using Sketch make use of Symbols and Resizing Constraints.
 
 ___
 
